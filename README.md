@@ -26,7 +26,7 @@ For more details, this was based on conventions at https://www.slicer.org/wiki/D
 How to backport changes to a specific branch ?
 ----------------------------------------------
 
-1. Fork `PlusToolkit/PlusLib`
+1. Fork `SonoVol/PlusLib`
 
 2. Checkout the relevant `sonoplus-vX.Y.Z-YYYY-MM-DD-SHA{9}` branch. See [SuperBuild/CMakeLists.txt](https://github.com/SonoVol/SonoPlus/blob/develop/SuperBuild/CMakeLists.txt#L133-L136) to identify the name of the branch.
 
